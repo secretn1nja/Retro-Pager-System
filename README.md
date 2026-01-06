@@ -1,5 +1,5 @@
 # -STANDALONE-Retro-Pager-System-Channels-Permissions-NUI
-![image|690x460](upload://uqFvuAmZ1pUmOaKf5bngREvEDl7.jpeg)
+<img width="421" height="293" alt="image" src="https://github.com/user-attachments/assets/f93ddc3f-b79b-40ab-869a-1662ca6e2d69" />
 
 This is a standalone communication resource for FiveM that implements a vintage pager system. It provides a functional NUI device for private and group messaging without any framework dependencies.
 
