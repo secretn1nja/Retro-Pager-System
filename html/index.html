@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Retro Pager</title>
+    <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="pager-device" style="display:none;">
+        <div class="pager-body">
+            <div class="brand-text">MOTOROLLA <span class="model">X90</span></div>
+            <div class="screen-container">
+                <div class="screen-scanlines"></div>
+                <div class="screen-content">
+                    <div class="status-bar">
+                        <span id="clock">12:00</span>
+                        <span id="battery-icon">[|||]</span>
+                    </div>
+
+                    <div id="display-area">
+                        </div>
+
+                    <div class="footer-bar">
+                        <span id="nav-hint">↕ MOVE ↵ SELECT</span>
+                    </div>
+                </div>
+            </div>
+            <div class="button-row">
+                <div class="btn"></div>
+                <div class="btn big"></div>
+                <div class="btn"></div>
+            </div>
+        </div>
+    </div>
+
+    <div id="notification-popup">
+        <div class="notif-content">
+            <span class="blink">★ NEW PAGE ★</span>
+            <div id="notif-text">ID: 102</div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
