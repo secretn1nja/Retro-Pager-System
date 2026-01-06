@@ -1,4 +1,4 @@
-# -STANDALONE-Retro-Pager-System-Channels-Permissions-NUI
+# [STANDALONE] Retro-Pager | Channels / Permissions / NUI
 <img width="421" height="293" alt="image" src="https://github.com/user-attachments/assets/f93ddc3f-b79b-40ab-869a-1662ca6e2d69" />
 
 This is a standalone communication resource for FiveM that implements a vintage pager system. It provides a functional NUI device for private and group messaging without any framework dependencies.
@@ -37,3 +37,5 @@ The script features a monochrome 90s-style interface with a built-in frequency s
 3. Add `ensure retro-pager` to your `server.cfg`.
 4. Open `config.lua` and add your administrator identifiers.
 5. Restart your server or start the resource via console.
+
+https://streamable.com/3u0hck
